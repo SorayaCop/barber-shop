@@ -10,4 +10,4 @@
 ![Desktop Demo](desktop.jpg "Desktop Demo")
 
 ### Licença Para Uso
-Este templete é livre e não possuí licenças!
+Este template é livre e não possuí licenças!
